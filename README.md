@@ -8,3 +8,5 @@ An omnigraffle document with the infographics and PNG exports.
 ## Project vs Product
 ![Project vs Project](/Project%20vs%20Product.png?raw=true)
 
+## Author
+[Russell Shurts](https://www.linkedin.com/in/russellwshurts)
